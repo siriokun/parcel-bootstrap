@@ -42,3 +42,7 @@ yarn build
 ```
 
 2. Now you have working static files inside `dist` folder ready for real world 🎉✨
+
+## Copyright and license
+
+Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE).
