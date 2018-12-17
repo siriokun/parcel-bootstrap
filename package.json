@@ -10,7 +10,7 @@
   "scripts": {
     "dev": "parcel src/index.html --no-cache --no-source-maps --open",
     "build": "parcel build src/index.html --no-cache --no-minify --no-source-maps --public-url ./",
-    "now-build": "npm run build"
+    "now-build": "yarn build"
   },
   "devDependencies": {
     "parcel-bundler": "^1.10.3",
