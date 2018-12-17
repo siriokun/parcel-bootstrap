@@ -4,9 +4,6 @@
   "public": true,
   "alias": ["parcel-bootstrap.now.sh"],
   "builds": [
-    {"src": "package.json", "use": "@now/static-build", "config": { "distDir": "dist" }}
-  ],
-  "routes": [
-    {"src": "^/(.*)", "dest": "/index.html"}
+    {"src": "package.json", "use": "@now/static-build"}
   ]
 }
