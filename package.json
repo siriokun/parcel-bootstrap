@@ -1,6 +1,6 @@
 {
   "name": "parcel-bootstrap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "repository": {
@@ -13,12 +13,12 @@
     "now-build": "yarn build"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.10.3",
+    "parcel-bundler": "^1.12.3",
     "parcel-plugin-clean-dist": "^0.0.6"
   },
   "dependencies": {
-    "bootstrap": "^4.1.3",
-    "jquery": "^3.3.1",
-    "popper.js": "^1.14.6"
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
   }
 }
